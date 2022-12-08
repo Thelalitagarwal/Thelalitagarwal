@@ -3,26 +3,15 @@ Lalit</a></h1>
 <h3 align="center">A passionate Software developer from India &#127470;&#127475</h3>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 🔭 Working on Web Development(React.Js)
+- 🌱 Expertise in C++
+- 🤝 Available for freelancing
+- 💬 Ask me about **Reactjs & DSA**
+- 📫 How to reach me **lalitagarwal8278@gmail.com**
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1NxX9wgZCZfHz5Gc4CNMIMqBDyB10iC70/view" target="blank">Resume</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
 
