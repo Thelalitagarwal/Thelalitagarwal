@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Lalit</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="350px" align="right" /></p></h1>
 <h3 align="center">A passionate Software developer from India &#127470;&#127475</h3>
 <p align="left">
@@ -7,10 +8,9 @@ Lalit</a>
 - 🌱 Expertise in C++<br/>
 - 🤝 Available for freelancing<br/>
 - 💬 Ask me about **Reactjs & DSA**<br/>
-- 📫 How to reach me **lalitagarwal8278@gmail.com**<br/>
+- 📫 How to reach me **lalitagarwal8278@gmail.com** <br/>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1NxX9wgZCZfHz5Gc4CNMIMqBDyB10iC70/view" target="blank">Resume</a><br/>
 </p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <br/>
