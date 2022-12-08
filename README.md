@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://thelalitagarwal.github.io/Portfolio.github.io/" target="blank">Lalit Agarwal</a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="350px" align="right" /></p></h1>
-<h3 align="right" margin-right: "50px" font-weight: "bold"; >A Passionate Software developer from India </h3>
+<h3 align="center" font-weight: "bold">A Passionate Software developer from India <img src="https://influencermarketinghub.com/wp-content/uploads/2020/07/patakk-gif.gif"></h3>
 <p align="left">
 	<br/>
 - 🔭 Working on Web Development(React.Js)<br/>
