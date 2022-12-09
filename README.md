@@ -29,6 +29,7 @@
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS"></code>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/r-lang.svg" alt="R"></code>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript"></code>
+	<br/>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/c-2975.svg" alt="C"></code>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/master/svg/Matlab_Logo.png" alt="MATLAB"></code>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/sql.png" alt="SQL"></code>
