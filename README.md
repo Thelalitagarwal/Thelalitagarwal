@@ -23,7 +23,7 @@
 ## Languages and Tools 
 
 
-``` 
+``` mermaid
 flowchart TB
  A>"Computer"]  
  B[("Programs")] 
