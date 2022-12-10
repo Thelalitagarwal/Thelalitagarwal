@@ -22,7 +22,7 @@
 
 ## Languages and Tools 
 
-
+<code>
 ``` mermaid
 flowchart TB
  A>"Computer"]  
@@ -31,6 +31,7 @@ flowchart TB
  A --> B
  A --> C
 ``` 
+</code>
 	
 <p>
 <img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
