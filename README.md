@@ -23,14 +23,14 @@
 ## Languages and Tools 
 
 
-
+``` 
 flowchart TB
  A>"Computer"]  
  B[("Programs")] 
  C[("Tools")]
  A --> B
  A --> C
-
+``` 
 	
 <p>
 <img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
