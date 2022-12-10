@@ -32,7 +32,6 @@
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/java-4.svg" alt="java"></code>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/css-3.svg" alt="CSS"></code>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/r-lang.svg" alt="R"></code>
-  <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/javascript.svg" alt="JavaScript"></code>
 	<br/><br/>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/c-2975.svg" alt="C"></code>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/master/svg/Matlab_Logo.png" alt="MATLAB"></code>
@@ -40,7 +39,6 @@
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/html-5.svg" alt="HTML"></code>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau-software.svg" alt="Tableau"></code>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
-  <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/power-bi-1.svg" alt="Power BI"></code>
 </p>
 </p>
 
