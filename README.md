@@ -23,7 +23,7 @@
 ## Languages and Tools 
 
 <p>
-<a align="left" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat&width=75&height=45"></a>
+<a align="left" href="https://github.com/DenverCoder1/readme-typing-svg"><img height="200" src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat&width=75&height=45"></a>
 <img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <p>
 	<br/><br/>
