@@ -24,7 +24,7 @@
 
 <p>
 <a align="left" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat&width=75&height=45"></a>
-<img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img align='right' src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <p align="center">
 	<br/><br/>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python"></code>
@@ -42,6 +42,7 @@
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/tableau-software.svg" alt="Tableau"></code>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
   <code><img height="50" width="50" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/power-bi-1.svg" alt="Power BI"></code>
+</p>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
